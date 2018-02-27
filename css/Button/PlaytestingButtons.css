@@ -1,0 +1,124 @@
+/*defining some things for [start]*/
+.PT {
+  border-style: solid;
+  border-color: black;
+  min-width: 220;
+  max-width: 220;
+  min-height: 90;
+  max-height: 90;
+  position: absolute;
+  left: 922px;
+  top: -3px;
+	background-color:#ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:40px;
+	padding:30px 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+
+/*defining the Planned mods button*/
+.Start {
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  max-height: 90;
+  min-height: 90;
+  min-width: 200;
+  max-width: 200;
+  position: absolute;
+  top: -3px;
+	background-color:#E5E5E5;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:60px;
+	padding:30px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Start:hover {
+	background-color:#ffffff;
+
+}
+
+/*defining the Development button*/
+.Planning {
+  border-style: solid;
+  border-color: black;
+  min-width: 220;
+  max-width: 220;
+  max-height: 90;
+  min-height: 90;
+  position: absolute;
+  left: 300px;
+  top: -3px;
+	background-color:#E5E5E5;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:40px;
+	padding:30px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Planning:hover {
+	background-color:#ffffff;
+
+}
+
+/*defining the Mods button*/
+.Mods {
+  border-style: solid;
+  border-color: black;
+  min-width: 220;
+  max-width: 220;
+  max-height: 90;
+  min-height: 00;
+  position: absolute;
+  left: 1225px;
+  top: -3px;
+	background-color:#E5E5E5;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:40px;
+	padding:30px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Mods:hover {
+	background-color:#ffffff;
+
+}
+
+.Development {
+  border-style: solid;
+  border-color: black;
+  min-width: 220;
+  max-width: 220;
+  min-height: 90;
+  max-height: 90;
+  position: absolute;
+  left: 600px;
+  top: -3px;
+	background-color:#E5E5E5;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:40px;
+	padding:30px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Development:hover {
+	background-color:#ffffff;
+
+}
