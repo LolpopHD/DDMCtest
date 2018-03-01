@@ -1,0 +1,110 @@
+/*defining the Planned mods button*/
+.Planning {
+  z-index: 1;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border: none;
+  text-align: left;
+  min-width: 500;
+  max-width: 500;
+  max-height: 20;
+  min-height: 20;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+	background-color:#ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	padding:40px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Planning:hover {
+	background-color:#ffffff;
+
+}
+
+/*defining the Development button*/
+.Development {
+  z-index: 2;
+  border: none;
+  text-align: left;
+  min-width: 500;
+  max-width: 500;
+  min-height: 20;
+  max-height: 20;
+  position: absolute;
+  left: 10px;
+  top: 100px;
+	background-color:#ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	padding:40px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Development:hover {
+	background-color:#ffffff;
+
+}
+
+/*defining the Mods button*/
+.Mods {
+  z-index: 3;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  text-align: left;
+  border: none;
+  min-width: 500;
+  max-width: 500;
+  max-height: 20;
+  min-height: 20;
+  position: absolute;
+  left: 10px;
+  top: 280px;
+	background-color:#ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	padding:40px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.Mods:hover {
+	background-color:#ffffff;
+
+}
+
+.PT {
+  z-index: 4;
+  text-align: left;
+  border: none;
+  min-width: 500;
+  max-width: 500;
+  min-height: 20;
+  max-height: 20;
+  position: absolute;
+  left: 10px;
+  top: 190px;
+	background-color:#ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	padding:40px 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.PT:hover {
+	background-color:#ffffff;
+
+}
